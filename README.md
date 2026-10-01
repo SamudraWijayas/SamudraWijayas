@@ -14,8 +14,8 @@ Here are some ideas to get you started: -->
 
 ### Hello World I'm Samudra Wijaya 👋
 
-🔭 Currently I am running a website creation service business [**Joki ndess**](https://www.jokindess.com/)
-
+🔭 Currently I am running a website creation service business [**Joki ndess**](https://www.jokindes.com/)
+o
 ##### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samudrawjya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samodra-wijaya-samdoria)
@@ -37,7 +37,7 @@ Here are some ideas to get you started: -->
 #### Play games with me
 
 
-<img src="https://raw.githubusercontent.com/SamudraWijayas/SamudraWijayas/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/SamudraWijayas/SamudraWijayas/output/snake.svg" alt="Snake animation" /> -->
 
 
 ###
